@@ -91,6 +91,7 @@ Made by :&nbsp;  [Sajag Chauhan](https://github.com/sajag1999)
 ## Contributors
 [Akash Kumar](https://github.com/kmrakash)  
 [Vishal Kichloo](https://github.com/kichloo)
+[Suchit Kumar] (https://github.com/suchit1999)
 
 ## :eyes: License
 MIT © [Sajag Chauhan](https://github.com/sajag1999/Website-Blocker-Project/blob/master/LICENSE)
